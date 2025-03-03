@@ -1,3 +1,4 @@
+# Project configuration
 repo_directory: html
 name: Echoes of Nature
 apply:
@@ -16,6 +17,7 @@ banner:
   image: https://geohackweek.github.io/assets/images/banner.jpg
 about:
   description: "Echoes of Nature is an innovative acoustic biodiversity monitoring project in Hong Kong. The project engages undergraduate students in hands-on research using AudioMoth devices to capture and analyze the soundscapes of Hong Kong's diverse ecosystems."
+  learn_more: "https://github.com/YuenWaHo/HKListeningProject"
   links:
     - url: "https://github.com/YuenWaHo/HKListeningProject"
       title: "Project Repository"
