@@ -30,6 +30,15 @@ parts:
         title: Sound Processing Basics
       - file: analysis/visualization
         title: Data Visualization
+      - file: tutorials/analysis_tutorials/index
+        title: Analysis Tutorials
+        sections:
+          - file: tutorials/analysis_tutorials/basic_sound_analysis
+            title: Basic Sound Analysis
+          - file: tutorials/analysis_tutorials/spectrogram_analysis
+            title: Working with Spectrograms
+          - file: tutorials/analysis_tutorials/automated_detection
+            title: Automated Sound Detection
 
   - caption: Resources
     chapters:
