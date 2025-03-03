@@ -1,32 +1,39 @@
-# Table of content
+# Table of contents
 # Learn more at https://jupyterbook.org/customize/toc.html
-root: intro
-format: jb-book
-parts:
-- caption: Details
-  chapters:
-    - file: logistics
-    - title: Schedule
-      url: https://uwhackweek.github.io/jupyterbook-template/index.html?jump_to=schedule
-    - title: Team
-      url: https://uwhackweek.github.io/jupyterbook-template/index.html?jump_to=team
-    - file: CoC
-- caption: Preparation
-  chapters:
-    - file: preliminary/index
-    - file: preliminary/checklist
-    - file: preliminary/git
-- caption: Tutorials
-  chapters:
-    - file: tutorials/index
-      sections:
-        - file: tutorials/example/tutorial-notebook
-- caption: Projects
-  chapters:
-    - file: projects/index
-- caption: Reference
-  chapters:
-    - file: reference/glossary
-    - file: reference/bibliography
-    - file: reference/questions
 
+format: jb-book
+root: intro
+parts:
+  - caption: Project Information
+    chapters:
+      - file: about/overview
+        title: Project Overview
+      - file: about/schedule
+        title: Project Timeline
+      - file: about/team
+        title: Project Team
+
+  - caption: Field Protocols
+    chapters:
+      - file: protocols/audiomoth_setup
+        title: AudioMoth Setup Guide
+      - file: protocols/field_deployment
+        title: Field Deployment Guidelines
+      - file: protocols/data_collection
+        title: Data Collection Protocol
+
+  - caption: Data Analysis
+    chapters:
+      - file: analysis/intro_bioacoustics
+        title: Introduction to Bioacoustics
+      - file: analysis/sound_processing
+        title: Sound Processing Basics
+      - file: analysis/visualization
+        title: Data Visualization
+
+  - caption: Resources
+    chapters:
+      - file: resources/references
+        title: References
+      - file: resources/glossary
+        title: Glossary

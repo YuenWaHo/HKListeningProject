@@ -1,47 +1,41 @@
 repo_directory: html
-name: UW Hackweek
+name: Echoes of Nature
 apply:
-  url: '#'
-  title: Application coming soon
+  url: "#"
+  title: Project Starting Soon
 banner:
-  description: An awesome learning event.
-  start_date: XX Month
-  end_date: XX Month
-  year: 2022
-  location: Seattle, WA
+  description: Hong Kong Acoustic Biodiversity Monitoring Project
+  start_date: July 2025
+  end_date: December 2027
+  location: Hong Kong
   links:
-  - url: intro.html
-    title: Event Jupyter Book
-    new_window: false
+    - url: intro.html
+      title: Project Documentation
+      new_window: false
   image: https://geohackweek.github.io/assets/images/banner.jpg
 # The opening session of the event with UTC offset
 event_countdown: "2024-08-07T08:30:00-07:00"
 about:
-  description: Hackweeks are participant-driven events that strive to create
-    welcoming spaces for participants to learn new things, build community and
-    gain hands-on experience with collaboration and team science
+  description: "Echoes of Nature is an innovative acoustic biodiversity monitoring project in Hong Kong. The project engages undergraduate students in hands-on research using AudioMoth devices to capture and analyze the soundscapes of Hong Kong's diverse ecosystems."
   learn_more: https://escience.washington.edu/using-data-science/hackweeks
   links:
-    - url: '#'
-      title: A sample link
+    - url: "https://github.com/YuenWaHo/HKListeningProject"
+      title: "Project Repository"
       new_window: True
-applicant_info: UW Hackweek 2022 will take place in October 2022 (virtual or in-person
-  TBD). Applications have not yet opened, but should be anticipated in September 2022.
-team:
-  !include team/team.yaml
-schedule:
-  !include book/schedule.yaml
+applicant_info: "We are looking for enthusiastic undergraduate students to participate in this acoustic biodiversity monitoring project. Each selected participant will be provided with an AudioMoth device for field deployment. Applications will open in 2025."
+team: !include team/team.yaml
+schedule: !include book/schedule.yaml
 sponsors:
-  description: ''
+  description: "This project is supported by the following organizations:"
   organizations:
-  - name: eScience Institute
-    website: ''
-    logo_url: https://escience.washington.edu/wp-content/uploads/2015/10/Logo_eScience-stacked.png
+    - name: Cetacea Research Institute
+      website: ""
+      logo_url: ""
 footer:
   social:
-  - icon: github
-    link: https://github.com/uwhackweek/
+    - icon: github
+      link: https://github.com/YuenWaHo/HKListeningProject
 _copy_without_render:
-- assets
+  - assets
 _extensions:
-- jinja_markdown.MarkdownExtension
+  - jinja_markdown.MarkdownExtension
