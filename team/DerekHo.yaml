@@ -1,0 +1,24 @@
+- title: Dr Derek Ho
+  avatar: https://yuenwaho.github.io/images/Portrait_HoYuenWa_scholar.jpeg
+  role: Research Scientist
+  organizations:
+    - name: Cetacea Research Institute
+  bio: Bioacoustian, Microplastic expert, and cetacean ecologist.
+  expertise:
+    - Python
+    - R
+    - MATLAB
+    - AudioMoth
+    - SongMeter SM4
+    - Bioacoustics
+    - Microplastic
+    - Stable Isotope Analysis
+  social:
+    - icon: github
+      link: https://github.com/yuenwaho
+    - icon: twitter
+      link: NA
+    - icon: linkedin
+      link: NA
+  user_groups:
+    - Principal Investigator

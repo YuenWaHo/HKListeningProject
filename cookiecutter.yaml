@@ -15,7 +15,7 @@ banner:
       title: Project Documentation
       new_window: false
   image: https://geohackweek.github.io/assets/images/banner.jpg
-event_countdown: "2025-07-01T09:00:00+08:00"
+event_countdown: "2025-07-01T12:00:00+08:00"
 about:
   description: "Echoes of Nature is an innovative acoustic biodiversity monitoring project in Hong Kong. The project engages undergraduate students in hands-on research using AudioMoth devices to capture and analyze the soundscapes of Hong Kong's diverse ecosystems."
   learn_more: "https://github.com/YuenWaHo/HKListeningProject"
@@ -33,8 +33,8 @@ sponsors:
       website: "https://www.opcf.org.hk/"
       logo_url: "https://upload.wikimedia.org/wikipedia/en/a/a9/OPCF_Logo_2010.png"
     - name: Cetacea Research Institute
-      website: ""
-      logo_url: ""
+      website: "https://www.hku-cetacean-ecology.net/cri"
+      logo_url: "https://static.wixstatic.com/media/f0657f_d70005ac69087bdb468667b30fc978d7.png/v1/fill/w_412,h_168,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/f0657f_d70005ac69087bdb468667b30fc978d7.png"
 footer:
   social:
     - icon: github
