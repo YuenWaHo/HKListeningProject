@@ -30,15 +30,11 @@ parts:
         title: Sound Processing Basics
       - file: analysis/visualization
         title: Data Visualization
-      - file: tutorials/analysis_tutorials/index
+      - file: tutorials/analysis/index
         title: Analysis Tutorials
         sections:
-          - file: tutorials/analysis_tutorials/basic_sound_analysis
+          - file: tutorials/analysis/basic_sound_analysis
             title: Basic Sound Analysis
-          - file: tutorials/analysis_tutorials/spectrogram_analysis
-            title: Working with Spectrograms
-          - file: tutorials/analysis_tutorials/automated_detection
-            title: Automated Sound Detection
 
   - caption: Resources
     chapters:
@@ -46,3 +42,21 @@ parts:
         title: References
       - file: resources/glossary
         title: Glossary
+
+# Analysis Tutorials
+
+Welcome to the acoustic analysis tutorials! Here you'll learn how to process and analyze AudioMoth recordings using Python.
+
+## Available Tutorials
+
+### [Basic Sound Analysis](basic_sound_analysis.ipynb)
+Learn the fundamentals of:
+- Loading audio files
+- Creating spectrograms
+- Basic feature extraction
+- Sound visualization
+
+## Prerequisites
+- Python basics
+- Required packages: librosa, numpy, matplotlib
+- Sample AudioMoth recordings
