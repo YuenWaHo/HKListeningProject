@@ -7,6 +7,7 @@ banner:
   description: Hong Kong Acoustic Biodiversity Monitoring Project
   start_date: July 2025
   end_date: December 2027
+  year: 2025
   location: Hong Kong
   links:
     - url: intro.html
@@ -26,8 +27,11 @@ applicant_info: "We are looking for enthusiastic undergraduate students to parti
 team: !include team/team.yaml
 schedule: !include book/schedule.yaml
 sponsors:
-  description: "This project is supported by the following organizations:"
+  description: "This project is supported by:"
   organizations:
+    - name: Ocean Park Conservation Foundation Hong Kong
+      website: "https://www.opcf.org.hk/"
+      logo_url: "https://upload.wikimedia.org/wikipedia/en/a/a9/OPCF_Logo_2010.png"
     - name: Cetacea Research Institute
       website: ""
       logo_url: ""
