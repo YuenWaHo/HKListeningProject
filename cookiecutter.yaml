@@ -14,11 +14,8 @@ banner:
       title: Project Documentation
       new_window: false
   image: https://geohackweek.github.io/assets/images/banner.jpg
-# The opening session of the event with UTC offset
-event_countdown: "2024-08-07T08:30:00-07:00"
 about:
   description: "Echoes of Nature is an innovative acoustic biodiversity monitoring project in Hong Kong. The project engages undergraduate students in hands-on research using AudioMoth devices to capture and analyze the soundscapes of Hong Kong's diverse ecosystems."
-  learn_more: https://escience.washington.edu/using-data-science/hackweeks
   links:
     - url: "https://github.com/YuenWaHo/HKListeningProject"
       title: "Project Repository"
