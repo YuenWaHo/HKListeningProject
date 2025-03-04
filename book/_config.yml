@@ -60,19 +60,18 @@ repository:
 # Bibliography
 bibtex_bibfiles:
   - references.bib
-sphinx:
-  config:
-    bibtex_reference_style: author_year # or label, super, \supercite
-    nb_merge_streams: true # stdout lines combined in output
-    nb_custom_formats:
-      .py:
-        - jupytext.reads
-        - fmt: py:percent
-    # Add support for Plotly
-    nb_output_stderr: show
-    nb_output_stdout: show
-    nb_output_mime_types:
-      - application/vnd.plotly.v1+json
+
+# Notebook configuration
+myst_nb:
+  merge_streams: true
+  output_stderr: show
+  render_text_lexer: myst-ansi
+  render_error_lexer: ipythontb
+  render_image_options: {}
+  render_figure_options: {}
+  render_markdown_format: commonmark
+  output_folder: build
+  append_css: true
 
 # Add GitHub buttons to your book
 # See https://jupyterbook.org/customize/config.html#add-a-link-to-your-repository
