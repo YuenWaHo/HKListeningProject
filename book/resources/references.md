@@ -8,6 +8,10 @@
 - [Configuration App](https://www.openacousticdevices.info/config)
 - [User Guide](https://www.openacousticdevices.info/getting-started)
 
+### Wildlife Acoustic SongMeter
+
+- [Wildlife Acoustic Website](https://www.wildlifeacoustics.com/)
+
 ### Analysis Tools
 
 - [Audacity](https://www.audacityteam.org/)
