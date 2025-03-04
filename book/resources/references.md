@@ -5,12 +5,14 @@
 ### AudioMoth
 
 - [AudioMoth Website](https://www.openacousticdevices.info)
-- [Configuration App](https://www.openacousticdevices.info/config)
+- [Configuration App](https://www.openacousticdevices.info/applications)
 - [User Guide](https://www.openacousticdevices.info/getting-started)
 
 ### Wildlife Acoustic SongMeter
 
 - [Wildlife Acoustic Website](https://www.wildlifeacoustics.com/)
+- Software - Download via login page
+
 
 ### Analysis Tools
 
@@ -18,6 +20,7 @@
 - [R](https://www.r-project.org/)
 - [Python](https://www.python.org/)
 - [Raven Pro](https://ravensoundsoftware.com/software/raven-pro/)
+- [Soundscape_IR](https://meil-brcas-org.github.io/V1.1/index.html)
 
 ## Literature
 

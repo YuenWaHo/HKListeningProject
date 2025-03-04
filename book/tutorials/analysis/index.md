@@ -13,8 +13,14 @@ Learn the fundamentals of:
 - Basic feature extraction
 - Sound visualization
 
+### ALTS Analysis
+
+Learn how to perform ALTS (Acoustic Localization and Tracking System) analysis:
+
+- [ALTS Analysis Tutorial](alts_analysis.ipynb)
+
 ## Prerequisites
 
 - Python basics
-- Required packages: librosa, numpy, matplotlib
+- Required packages: librosa, numpy, matplotlib, Soundscape_IR
 - Sample AudioMoth recordings
