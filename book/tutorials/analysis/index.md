@@ -17,7 +17,7 @@ Learn the fundamentals of:
 
 Learn how to perform ALTS (Acoustic Localization and Tracking System) analysis:
 
-- [ALTS Analysis Tutorial](alts_analysis.ipynb)
+- [ALTS Analysis Tutorial](End_to_end_click_detector_bird)
 
 ## Prerequisites
 
