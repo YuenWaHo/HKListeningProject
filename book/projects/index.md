@@ -13,12 +13,12 @@ Below you'll find information about our ongoing research projects and opportunit
 
 ## List of Projects
 
-Current active projects in the Echoes of Nature initiative:
+Past projects in the Echoes of Nature initiative:
 
-| Project Name          | Short Description                                                                      | Project Lead(s)     |
-| :-------------------- | :------------------------------------------------------------------------------------- | :------------------ |
-| Urban Soundscapes     | Monitoring and analyzing acoustic patterns in Hong Kong's urban parks and green spaces | [Project Lead Name] |
-| Wildlife Vocalization | Identifying and cataloging wildlife calls in Hong Kong's country parks                 | [Project Lead Name] |
-| Temporal Patterns     | Studying daily and seasonal variations in biological sound activity                    | [Project Lead Name] |
+| Project Name       | Short Description                                                                                 | Funding Support |
+| :----------------- | :------------------------------------------------------------------------------------------------ | :-------------- |
+| Temporal Pattern   | Diurnal Activity Pattern of Indo-Pacific humpback dolphins and Indo-Pacific finless porpoises     | OPCFHK          |
+| Marine Soundscapes | Marine soundscapes along an estuarine gradient                                                    | OPCFHK          |
+| Temporal Patterns  | Nocturnal activity pattern of humpback dolphins and finless porpoises using acoustic localisation | MCEF            |
 
-_Note: Project leads will be updated as teams are formed. If you're interested in joining or leading a project, please contact us._
+_Note: These projects are not directly initiated by the Echoes of Nature Project, but serve as exploratory framework developed under the PI._
