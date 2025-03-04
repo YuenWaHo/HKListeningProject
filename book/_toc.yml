@@ -35,7 +35,7 @@ parts:
         sections:
           - file: tutorials/analysis/basic_sound_analysis
             title: Basic Sound Analysis
-          - file: tutorials/analysis/alts_analysis
+          - file: tutorials/analysis/alts_analysis.ipynb
             title: ALTS Analysis
 
   - caption: Resources
