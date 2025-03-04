@@ -42,5 +42,5 @@ For questions or collaborations, please reach out to:
 
 ```{admonition} Quick links for the event
 :class: seealso
-* GitHub organization: {{ yuenwaho.github.io/HKListeningProject}}
+* GitHub organization: {{ https://yuenwaho.github.io/HKListeningProject}}
 ```
