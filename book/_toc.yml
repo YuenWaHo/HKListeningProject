@@ -35,6 +35,8 @@ parts:
         sections:
           - file: tutorials/analysis/basic_sound_analysis
             title: Basic Sound Analysis
+          - file: tutorials/analysis/alts_analysis
+            title: ALTS Analysis
 
   - caption: Resources
     chapters:
