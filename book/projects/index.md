@@ -2,13 +2,6 @@
 
 The Echoes of Nature project invites participants to explore Hong Kong's biodiversity through acoustic monitoring. Our project teams collaborate to collect, analyze and understand the soundscapes of Hong Kong's diverse ecosystems.
 
-```{image} ../img/projects-workshop.JPG
-:alt: picture of acoustic monitoring and analysis work
-:class: bg-primary mb-1
-:width: 700px
-:align: center
-```
-
 Below you'll find information about our ongoing research projects and opportunities to get involved. Each project focuses on different aspects of bioacoustic monitoring and analysis.
 
 ## List of Projects
