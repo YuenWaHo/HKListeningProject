@@ -35,8 +35,8 @@ parts:
         sections:
           - file: tutorials/analysis/basic_sound_analysis
             title: Basic Sound Analysis
-          - file: tutorials/analysis/alts_analysis.ipynb
-            title: ALTS Analysis
+          - file: tutorials/analysis/End_to_end_click_detector_bird.ipynb
+            title: Bird Song Detection
 
   - caption: Resources
     chapters:

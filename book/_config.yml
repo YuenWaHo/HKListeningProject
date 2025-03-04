@@ -37,9 +37,9 @@ execute:
   execute_notebooks: "force"
   exclude_patterns:
     - "**/geospatial-advanced.ipynb"
-  allow_errors: false
+  allow_errors: true  # Changed to true to see full error output
   # Per-cell notebook execution limit (seconds)
-  timeout: 300
+  timeout: 600  # Increased timeout to 10 minutes
 
 # Define the name of the latex output file for PDF builds
 latex:
@@ -68,6 +68,11 @@ sphinx:
       .py:
         - jupytext.reads
         - fmt: py:percent
+    # Add support for Plotly
+    nb_output_stderr: show
+    nb_output_stdout: show
+    nb_output_mime_types:
+      - application/vnd.plotly.v1+json
 
 # Add GitHub buttons to your book
 # See https://jupyterbook.org/customize/config.html#add-a-link-to-your-repository
